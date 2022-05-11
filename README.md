@@ -1,6 +1,6 @@
 # Gamekid
 A community built Game Boy emulator for [Playdate](https://play.date).  
-The emulator backend is provided by the equaly teeny [PeanutGB](https://github.com/deltabeard/Peanut-GB).
+The emulator backend is provided by the equally teeny [PeanutGB](https://github.com/deltabeard/Peanut-GB).
 
 ## Install
 1. [Download](https://github.com/mierau/gamekid/releases/) the latest version of Gamekid.
